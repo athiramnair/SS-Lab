@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541941324 source:f:\ss lab\lfu\main.c
+	<stdio.h>
+	<stdlib.h>
+

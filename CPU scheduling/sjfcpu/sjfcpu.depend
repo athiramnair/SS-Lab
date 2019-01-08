@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541820562 source:f:\ss lab\sjfcpu\main.c
+	<stdio.h>
+	<stdlib.h>
+

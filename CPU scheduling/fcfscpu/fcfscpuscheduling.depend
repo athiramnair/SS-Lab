@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541818498 source:f:\ss lab\fcfscpuscheduling\main.c
+	<stdio.h>
+	<stdlib.h>
+
